@@ -1,0 +1,11 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
